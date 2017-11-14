@@ -187,3 +187,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 ### Scala template
+/.idea/
